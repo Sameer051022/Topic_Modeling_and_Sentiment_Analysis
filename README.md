@@ -1,6 +1,3 @@
-# Topic_Modeling_and_Sentiment_Analysis
-"In-depth exploration of advanced NLP techniques featuring topic modeling and sentiment analysis on diverse datasets, utilizing Python’s powerful libraries to uncover themes and sentiments in textual data."
-
 # Topic Modeling and Sentiment Analysis in Python
 
 This repository houses a Jupyter notebook that combines topic modeling and sentiment analysis to provide a dual approach to understanding textual data. It leverages Python's NLP capabilities to extract meaningful topics and sentiment orientations from text.
